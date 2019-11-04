@@ -1,0 +1,23 @@
+{
+  "name": "recipes",
+  "version": "1.0.0",
+  "description": "Recipe Manager",
+  "main": "app.js",
+  "scripts": {
+    "test": "nodemon app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "*",
+    "braces": "^3.0.2",
+    "consolidate": "*",
+    "dust": "*",
+    "dustjs-helpers": "*",
+    "dustjs-linkedin": "*",
+    "express": "*",
+    "nodemon": "^1.19.4",
+    "pg": "*"
+  }
+}
